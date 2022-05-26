@@ -12,6 +12,6 @@ Here are some images  before developing from the use of UML diagrams.
 
 ![Add a new team](https://user-images.githubusercontent.com/60824509/170479676-87085e23-d6ca-415a-82df-2c1a53e648b2.png)
 
-![scoresheet page](https://user-images.githubusercontent.com/60824509/170479698-3cec8938-99a9-4c5d-8c69-94a0c6bb0734.png)!
+![scoresheet page](https://user-images.githubusercontent.com/60824509/170479698-3cec8938-99a9-4c5d-8c69-94a0c6bb0734.png)
 
 ![show all team stats](https://user-images.githubusercontent.com/60824509/170479705-d9bff0aa-89ba-48c5-9f6a-dbbb0ccaa3aa.png)
